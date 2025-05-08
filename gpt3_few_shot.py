@@ -10,7 +10,7 @@ Original file is located at
 !pip install transformers datasets openai
 
 import openai
-api_key = "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"
+api_key = #USE PERSONAL API KEY HERE
 openai.api_key = api_key
 
 import os
